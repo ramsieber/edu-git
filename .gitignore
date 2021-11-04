@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 ### IntelliJ IDEA ###
 .idea
->>>>>>> fb-02
 *.iml
 *.ipr
+*.iws
+
